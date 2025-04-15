@@ -1,23 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Phantasmagoria Robotics Team</title>
-  <style>
-    body { margin: 0; font-family: Arial, sans-serif; background-color: #0d1b2a; color: #f4f4f4; }
-    header { background: #1b263b; padding: 20px; text-align: center; }
-    header h1 { margin: 0; font-size: 2.5em; }
-    nav { background: #415a77; display: flex; justify-content: center; gap: 20px; padding: 10px 0; }
-    nav a { color: white; text-decoration: none; font-weight: bold; }
-    section { padding: 40px 20px; max-width: 900px; margin: auto; }
-    h2 { color: #e0e1dd; }
-    footer { background: #1b263b; text-align: center; padding: 20px; margin-top: 40px; }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Phantasmagoria</h1>
+
+<h1>Phantasmagoria</h1>
     <p>Empowering the Future with SJKHS Robotics</p>
   </header>
   <nav>
@@ -55,7 +37,7 @@
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>Interested in collaborating or supporting us? Reach out at: <a href="mailto: daphnelouissescaalimtorres@gmail.com" style="color: #f4f4f4;">phantasmagoria@school.edu</a></p>
+    <p>Interested in collaborating or supporting us? Reach out at: <a href="mailto: daphnelouissescaalimtorres@gmail.com" style="color: #f4f4f4;">daphnelouissescaalimtorres@gmail.com</a></p>
   </section>
 
   <footer>
