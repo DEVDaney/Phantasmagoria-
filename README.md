@@ -1,3 +1,17 @@
+#loader {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #1b5e20, #66bb6a);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Cursive', sans-serif;
+  font-size: 2em;
+  z-index: 9999;
+  animation: fadeIn 1s ease-in-out;
+}
 
 <h1>Phantasmagoria</h1>
     <p>Empowering the Future with SJKHS Robotics</p>
